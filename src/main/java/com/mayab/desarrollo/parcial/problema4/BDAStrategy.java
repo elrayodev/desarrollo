@@ -1,0 +1,11 @@
+package com.mayab.desarrollo.parcial.problema4;
+
+public class BDAStrategy implements BDBehavoir{
+
+	public void crearSentencia() {
+
+		System.out.println("Query en Mayusculas");
+		
+	}
+	
+}
